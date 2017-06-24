@@ -9,7 +9,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here is the data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## R script
-The file with R code "code.R" performs the 5 following steps:   
+The file with R code "run_analysis.R" performs the 5 following steps:   
 1. Merging the training and the test sets to create one data set.   
   1.1 Reading files    
     1.1.1 Reading trainings tables   
